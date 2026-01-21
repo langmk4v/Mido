@@ -1,0 +1,9 @@
+/.vscode
+
+*.o
+*.d
+*.a
+*.out
+*.elf
+
+/test.*
