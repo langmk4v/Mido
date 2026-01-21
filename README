@@ -1,10 +1,10 @@
-XYparser: A Parser library for C++
+Mido: A Parser library for C++
 
 When implementing a compiler or interpreter,
 writing the lexer and parser completely by hand takes time and effort.
 At the same time, using the latest libraries lacks customizability.
 
-xyparser is a library that fits in between these two.
+Mido is a library that fits in between these two.
 
 In a world where only those who keep on coding survive,
 academic beauty is NOT necessarily a priority.
